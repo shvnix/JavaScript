@@ -1,1 +1,2 @@
-# JavaScript
+# JavaScript learning with the fun
+
